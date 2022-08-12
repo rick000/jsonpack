@@ -5,8 +5,8 @@ make serialize c++ type to json or parse json to c++ easier
 - make serialize c++ type to json or parse json to c++ easier
 - only one header file 
 - requirements
-	c++17 or above
-	nlohmann:json (easy to adapter  to  other json lib)
+	- c++17 
+	- nlohmann:json (easy to adapter  to  other json lib)
 
 # example
 ## normal struct type
